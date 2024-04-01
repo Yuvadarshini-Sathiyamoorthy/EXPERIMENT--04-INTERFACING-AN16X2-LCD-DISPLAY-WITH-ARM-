@@ -119,29 +119,29 @@ Jump to second line, position 2
  
 ## Procedure:
 
-1. click on STM 32 CUBE IDE
+1.  click on STM 32 CUBE IDE
  
-2. click on FILE, click on new stm 32 project 
+2.  click on FILE, click on new stm 32 project 
 
-3. select the target to be programmed and click on next
+3.  select the target to be programmed and click on next
 
-4.select the program name
+4.  select the program name
 
-5. corresponding ioc file will be generated automatically 
+5.  corresponding ioc file will be generated automatically 
 
-6.select the appropriate pins as gipo, in or out, USART or required options and configure 
+6.  select the appropriate pins as gipo, in or out, USART or required options and configure 
 
-7.click on cntrl+S , automaticall C program will be generated 
+7.  click on cntrl+S , automaticall C program will be generated 
 
-8. edit the program and as per required 
-!
-9. Add necessary library files of LCD 16x2 , write the program and use project and build  
+8.  edit the program and as per required 
+
+9.  Add necessary library files of LCD 16x2 , write the program and use project and build  
 
 10. once the project is bulild 
 
 11. click on debug option 
 
-12.  Creating Proteus project and running the simulation
+12. Creating Proteus project and running the simulation
 We are now at the last part of step by step guide on how to simulate STM32 project in Proteus.
 
 13. Create a new Proteus project and place STM32F40xx i.e. the same MCU for which the project was created in STM32Cube IDE. 

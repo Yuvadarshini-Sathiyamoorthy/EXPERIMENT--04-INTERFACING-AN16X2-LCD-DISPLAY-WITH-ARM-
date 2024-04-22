@@ -280,8 +280,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![exp_4_layout](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/93482485/70dc1c68-c402-42f6-af2a-5b7dca590862)
+ ## CIRCUIT DIAGRAM: 
+![image](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/93482485/28e9d8b8-2050-4862-bf59-3a8c07ad3c42)
+
 
 
  
